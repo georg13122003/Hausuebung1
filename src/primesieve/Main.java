@@ -52,7 +52,7 @@ public class Main {
                     break;
 
                 default:
-                    System.out.println("Feler bei der eingabe");
+                    System.out.println("Feler bei der eingabe!");
                     break;
             }
         } catch (Exception e) {
