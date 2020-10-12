@@ -47,7 +47,7 @@ public class Main {
                     if (grenze > 2 && (grenze % 2 == 0)) {
                         eps.primSummen();
                     } else {
-                        throw new Exception("Grenze war zu klein oder ungerade");
+                        throw new Exception("Grenze war zu klein oder ungerade!");
                     }
                     break;
 
