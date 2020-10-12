@@ -20,7 +20,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("1...PrimZahlen ausgeben");
-        System.out.println("2...Gerade Zahlen mit Primzahlen ausgeben");
+        System.out.println("2...Gerade Zahlen mit Primzahlen ausgeben!");
         try {
             int input = Integer.valueOf(sc.nextLine());
             System.out.print("Grenze:");
