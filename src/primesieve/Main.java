@@ -19,7 +19,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("1...PrimZahlen ausgeben");
+        System.out.println("1...PrimZahlen ausgeben!");
         System.out.println("2...Gerade Zahlen mit Primzahlen ausgeben!");
         try {
             int input = Integer.valueOf(sc.nextLine());
